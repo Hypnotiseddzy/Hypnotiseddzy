@@ -27,7 +27,7 @@
 
 ## 组成
 
-![image-20211210210635856](C:\Users\11255\AppData\Roaming\Typora\typora-user-images\image-20211210210635856.png)
+
 
 * SpringBoot
   * 一个快速开发的脚手架
